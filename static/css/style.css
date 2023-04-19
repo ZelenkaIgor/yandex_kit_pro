@@ -1,0 +1,35 @@
+h1 {
+   color: black
+}
+
+.component {
+  color: black;
+  background-color: #A9A9A9;
+  border: 5px solid var(--bs-gray-200);
+  margin-top: 5px
+}
+
+.clas {
+  color: #006400;
+  background-color: #90EE90;
+  border: 5px solid var(--bs-gray-200);
+  margin-top: 5px
+}
+
+.clas2{
+  color: black;
+  background-color: #FF1493;
+  margin-top: 5px
+}
+
+.clas3{
+  color: #B8860B;
+  background-color: #F5DEB3;
+  margin-top: 5px
+}
+
+.clas4 {
+  color: #A52A2A;
+  background-color: #F08080;
+  margin-top: 5px
+}
